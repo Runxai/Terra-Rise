@@ -1,0 +1,7 @@
+{
+  "name": "сщщщщдCopy of Terra Rise - Premium Residential Construction",
+  "description": "A comprehensive A-to-Z residential construction platform for the Chicago area, featuring interactive calculators, multi-language support, and financial comparison tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
